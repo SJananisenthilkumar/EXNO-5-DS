@@ -66,9 +66,8 @@ plt.ylabel('y axis')
 plt.title('Scatter plot')
 plt.show()
 ```
-<img scr="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/607a2352-8e86-4dbb-91a7-2c6caee19207" width="300" height="300">
-<img scr="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/3ed98880-c35d-43dd-97a1-32d9f18bbbfd" width="300" height="300">
-
+![image](https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/6e04c930-4a4b-40ec-a312-89e99ae1736f)
+![image](https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/0466f7da-0597-47e0-a634-89b467acba74)
 ### Pie Chart :
 ```
 act=['eat','sleep','work','play']
@@ -85,8 +84,8 @@ plt.pie(slices,labels=feedback,colors=color,startangle=90,shadow=True,explode=(0
 plt.legend()
 plt.show()
 ```
-<img scr="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/1a24c7c2-3291-43e7-91b0-0b6483203cf1" width="300" height="300">
-<img scr="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/dfda71da-be8f-4652-85ae-c9772e3e2d8f" width="300" height="300">
+![image](https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/078d9082-1c97-4742-905c-45a6110906a3)
+![image](https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/9db767f4-993d-4b74-a102-f1f6263e9f93)
 
 ### Area Chart :
 ```
