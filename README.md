@@ -46,8 +46,8 @@ plt.xlabel('Attendence')
 plt.ylabel('Student name')
 plt.show()
 ```
-<img src="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/f7b2b4f0-55de-4e25-afee-5699e2fcc1d1">
-<img src="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/1c06f3f5-cc24-4e9d-98f1-785424337035">
+<img src="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/f7b2b4f0-55de-4e25-afee-5699e2fcc1d1" width="300" height="300">
+<img src="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/1c06f3f5-cc24-4e9d-98f1-785424337035" width="300" height="300">
 
 ### Scatter Plot :
 ```
@@ -66,8 +66,8 @@ plt.ylabel('y axis')
 plt.title('Scatter plot')
 plt.show()
 ```
-<img scr="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/607a2352-8e86-4dbb-91a7-2c6caee19207">
-<img scr="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/3ed98880-c35d-43dd-97a1-32d9f18bbbfd">
+<img scr="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/607a2352-8e86-4dbb-91a7-2c6caee19207" width="300" height="300">
+<img scr="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/3ed98880-c35d-43dd-97a1-32d9f18bbbfd" width="300" height="300">
 
 ### Pie Chart :
 ```
@@ -85,8 +85,8 @@ plt.pie(slices,labels=feedback,colors=color,startangle=90,shadow=True,explode=(0
 plt.legend()
 plt.show()
 ```
-<img scr="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/1a24c7c2-3291-43e7-91b0-0b6483203cf1">
-<img scr="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/dfda71da-be8f-4652-85ae-c9772e3e2d8f">
+<img scr="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/1a24c7c2-3291-43e7-91b0-0b6483203cf1" width="300" height="300">
+<img scr="https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/dfda71da-be8f-4652-85ae-c9772e3e2d8f" width="300" height="300">
 
 ### Area Chart :
 ```
