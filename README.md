@@ -46,7 +46,7 @@ plt.xlabel('Attendence')
 plt.ylabel('Student name')
 plt.show()
 ```
-![image](https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/06a93eaf-9ad6-4572-b3cb-bb59aebabece)
+ ![image](https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/06a93eaf-9ad6-4572-b3cb-bb59aebabece)
  ![image](https://github.com/SJananisenthilkumar/EXNO-5-DS/assets/144871139/ea60c729-3e96-46bb-a1d3-07a83e4e2827)
 
 ### Scatter Plot :
